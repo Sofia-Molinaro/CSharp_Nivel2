@@ -1,0 +1,8 @@
+C:\Users\Giuli\OneDrive\Escritorio\CSharp_Nivel2\POO1\ejemplo2\bin\Debug\ejemplo2.exe.config
+C:\Users\Giuli\OneDrive\Escritorio\CSharp_Nivel2\POO1\ejemplo2\bin\Debug\ejemplo2.exe
+C:\Users\Giuli\OneDrive\Escritorio\CSharp_Nivel2\POO1\ejemplo2\bin\Debug\ejemplo2.pdb
+C:\Users\Giuli\OneDrive\Escritorio\CSharp_Nivel2\POO1\ejemplo2\obj\Debug\ejemplo2.csproj.AssemblyReference.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp_Nivel2\POO1\ejemplo2\obj\Debug\ejemplo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp_Nivel2\POO1\ejemplo2\obj\Debug\ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp_Nivel2\POO1\ejemplo2\obj\Debug\ejemplo2.exe
+C:\Users\Giuli\OneDrive\Escritorio\CSharp_Nivel2\POO1\ejemplo2\obj\Debug\ejemplo2.pdb
